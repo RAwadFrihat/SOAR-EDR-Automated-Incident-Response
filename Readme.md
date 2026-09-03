@@ -59,13 +59,13 @@ detect:
 ## 📸 Proof of Execution & Validation
 
 ### 1. Context-Rich Alerting (Slack & Email)
-![Slack & Email Alerts](docs/slack-alerts.png)
+![Slack & Email Alerts](docs/isolation-proof.png)
 
 ### 2. Interactive Analyst Prompt (Tines)
-![Tines Prompt](docs/tines-prompt.png)
+![Tines Prompt](docs/slack-alert.png)
 
 ### 3. Network Isolation Verification (Failed ICMP Ping)
-![Isolation Verification](docs/isolation-proof.png)
+![Isolation Verification](docs/Failed_ICMP_Ping.png)
 
 ---
 
