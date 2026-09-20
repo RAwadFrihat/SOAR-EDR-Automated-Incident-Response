@@ -1,6 +1,6 @@
 # Integrated Automated Incident Response Framework (EDR & SOAR)
 
-![Architecture Diagram](docs/architecture-diagram.png)
+![Architecture Diagram](docs/architecture-diagram.jpg)
 
 ## 📌 Executive Summary
 This project demonstrates the architecture, deployment, and testing of an **Automated Incident Response (IR) Framework**. The primary objective is to integrate **LimaCharlie (EDR)** with **Tines (SOAR)**, **Slack**, and **Email notification services** to enable real-time endpoint telemetry monitoring, automated threat triage, and instant threat containment.
